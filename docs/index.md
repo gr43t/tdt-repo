@@ -1,11 +1,17 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+Inofficial repository blah
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+## Social Licence Papers
+[[pdf document]] #taga #tagb
+abc def
+ghi jkl
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+
+Data Stewardship Papers
+
+
+
+
+### List of Authors
