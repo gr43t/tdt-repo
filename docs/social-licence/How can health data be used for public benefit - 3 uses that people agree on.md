@@ -11,13 +11,10 @@ url-file:
 tags: #article, #health  
 ---
 
-**How can health data be used for public benefit?**
-3 uses that people agree on
-
 Website: The Conversation
 Publication Date: 2022-01-22
 
-Authors: Paprica, P. Alison; Cumyn, Annabelle; Burt, Julia; McGrail, Kimberlyn; Dault, Roxanne;
+Authors: [[Paprica, P. Alison]] et al. (Cumyn, Annabelle; Burt, Julia; McGrail, Kimberlyn; Dault, Roxanne)
 
 URL: https://theconversation.com/how-can-health-data-be-used-for-public-benefit-3-uses-that-people-agree-on-196847
 

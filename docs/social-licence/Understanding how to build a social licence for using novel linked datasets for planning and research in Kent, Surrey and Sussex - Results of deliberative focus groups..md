@@ -10,13 +10,10 @@ url-file:
 tags: 
 ---
 
-__Understanding how to build a social licence for using novel linked datasets for planning and research in Kent, Surrey and Sussex__
-Results of deliberative focus groups.
-
 Journal: International Journal of Population Data Science, 5(3)
 Publication Date: 2022-01-30
 
-Authors: Ford, Elizabeth et al. (Rees-Roberts, M., Stanley, K., Goddard, K., Giles, S., Armes, J., Ikhile, D., Madzvamuse, A., Spencer-Hughes, V., George, A., Farmer, C. and Cassell, J.)
+Authors: [[Ford, Elizabeth]] et al. (Rees-Roberts, M., Stanley, K., Goddard, K., Giles, S., Armes, J., Ikhile, D., Madzvamuse, A., Spencer-Hughes, V., George, A., Farmer, C. and Cassell, J.)
 
 URL Info: https://ijpds.org/article/view/2114
 URL DOI: https://doi.org/10.23889/ijpds.v5i3.2114

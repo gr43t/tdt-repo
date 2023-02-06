@@ -7,4 +7,4 @@ Personal Website:
 Brighton and Sussex Medical School, Brighton, UK
 
 #### Papers
-[[Understanding how to build a social licence for using novel linked datasets for planning and research in Kent, Surrey and Sussex]]
+[[Understanding how to build a social licence for using novel linked datasets for planning and research in Kent, Surrey and Sussex - Results of deliberative focus groups.]]
